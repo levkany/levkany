@@ -3,7 +3,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Levkany! a **Backend Engineer**:computer:. I'm passionate about creating software architectures, and backend services.
+I'm Lev kany! a **Backend Engineer**:computer:. I'm passionate about engineering , and architectures.
 I love to exchange knowledge and meet new people 🌟
 <br>
 
